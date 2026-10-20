@@ -1,0 +1,1 @@
+import{Ot as eH,b as JB,jt as g,o as Cf}from"./chunk-DNaXu5vS.js";function m(c){let r=g(eH),s=g(JB);Cf(()=>{let e=c();r.setTitle(e.title),s.updateTag({name:`description`,content:e.description})})}export{m as t};

@@ -1,0 +1,331 @@
+{
+  "weekLabel": {
+    "year": 2026
+  },
+  "classes": [
+    {
+      "program": "DOEP",
+      "tone": "yellow",
+      "weekday": 1,
+      "start": "6:00p",
+      "end": "9:00p"
+    },
+    {
+      "program": "MRT",
+      "tone": "green",
+      "weekday": 1,
+      "start": "6:00p",
+      "end": "8:00p"
+    },
+    {
+      "program": "BIPP Male",
+      "tone": "gray",
+      "weekday": 1,
+      "start": "6:00p",
+      "end": "8:00p"
+    },
+    {
+      "program": "DOEP",
+      "tone": "yellow",
+      "weekday": 2,
+      "start": "6:00p",
+      "end": "9:00p"
+    },
+    {
+      "program": "DWI-ROP",
+      "tone": "blue",
+      "weekday": 2,
+      "start": "6:00p",
+      "end": "8:00p"
+    },
+    {
+      "program": "DOEP",
+      "tone": "yellow",
+      "weekday": 3,
+      "start": "6:00p",
+      "end": "9:00p"
+    },
+    {
+      "program": "MRT",
+      "tone": "green",
+      "weekday": 3,
+      "start": "6:00p",
+      "end": "8:00p"
+    },
+    {
+      "program": "Anger Mgmt",
+      "tone": "red",
+      "weekday": 3,
+      "start": "6:00p",
+      "end": "7:00p"
+    },
+    {
+      "program": "DWI Class",
+      "tone": "blue",
+      "weekday": 3,
+      "start": "6:00p",
+      "end": "10:00p"
+    },
+    {
+      "program": "DOEP",
+      "tone": "yellow",
+      "weekday": 4,
+      "start": "6:00p",
+      "end": "9:00p"
+    },
+    {
+      "program": "DWI-ROP",
+      "tone": "blue",
+      "weekday": 4,
+      "start": "6:00p",
+      "end": "8:00p"
+    },
+    {
+      "program": "DOEP",
+      "tone": "yellow",
+      "weekday": 5,
+      "start": "6:00p",
+      "end": "9:00p"
+    },
+    {
+      "program": "DWI Class",
+      "tone": "blue",
+      "weekday": 5,
+      "start": "6:00p",
+      "end": "10:00p"
+    },
+    {
+      "program": "Life Skills",
+      "tone": "green",
+      "weekday": 6,
+      "start": "9:00a",
+      "end": "1:00p"
+    },
+    {
+      "program": "MRT",
+      "tone": "green",
+      "weekday": 6,
+      "start": "9:00a",
+      "end": "11:00a"
+    },
+    {
+      "program": "Marijuana Intervention",
+      "tone": "red",
+      "weekday": 6,
+      "start": "12:00p",
+      "end": "4:00p"
+    },
+    {
+      "program": "Theft Intervention",
+      "tone": "gray",
+      "weekday": 6,
+      "start": "12:00p",
+      "end": "4:00p"
+    },
+    {
+      "program": "DWI-ROP",
+      "tone": "blue",
+      "weekday": 6,
+      "start": "4:00p",
+      "end": "6:00p"
+    },
+    {
+      "program": "Anger Management",
+      "tone": "red",
+      "weekday": 7,
+      "start": "1:00p",
+      "end": "2:00p"
+    },
+    {
+      "program": "DWI Class",
+      "tone": "blue",
+      "weekday": 7,
+      "start": "4:00p",
+      "end": "8:00p"
+    },
+    {
+      "program": "DWI-ROP",
+      "tone": "blue",
+      "weekday": 7,
+      "start": "4:00p",
+      "end": "6:00p"
+    }
+  ],
+  "sud": [
+    {
+      "weekday": 1,
+      "start": "8:30a",
+      "end": "10:30a",
+      "group": "process",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 1,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "educational",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 1,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 1,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 2,
+      "start": "8:30a",
+      "end": "10:30a",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 2,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "process",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 2,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 2,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 3,
+      "start": "11:00a",
+      "end": "1:00p",
+      "group": "process",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 3,
+      "start": "4:00p",
+      "end": "6:00p",
+      "group": "educational",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 3,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 3,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "educational",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 4,
+      "start": "11:00a",
+      "end": "1:00p",
+      "group": "educational",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 4,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 4,
+      "start": "6:00p",
+      "end": "8:00p",
+      "group": "process",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 5,
+      "start": "11:00a",
+      "end": "1:00p",
+      "group": "process",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 5,
+      "start": "4:00p",
+      "end": "6:00p",
+      "group": "educational",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 6,
+      "start": "8:30a",
+      "end": "10:30a",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 6,
+      "start": "11:00a",
+      "end": "1:00p",
+      "group": "process",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 6,
+      "start": "1:00p",
+      "end": "3:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 7,
+      "start": "8:30a",
+      "end": "10:30a",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 7,
+      "start": "9:00a",
+      "end": "11:00a",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 7,
+      "start": "11:00a",
+      "end": "1:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 7,
+      "start": "1:00p",
+      "end": "3:00p",
+      "group": "homework",
+      "modality": "virtual"
+    },
+    {
+      "weekday": 7,
+      "start": "3:00p",
+      "end": "5:00p",
+      "group": "homework",
+      "modality": "virtual"
+    }
+  ]
+}
