@@ -1,0 +1,1 @@
+import{Z as Tf,dn as sH,kt as g,pt as aH}from"./chunk-Cv9hVFSq.js";function m(c){let r=g(aH),s=g(sH);Tf(()=>{let e=c();r.setTitle(e.title),s.updateTag({name:`description`,content:e.description})})}export{m as t};
